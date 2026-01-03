@@ -1,5 +1,7 @@
 # Development Phases
 
+## Minimal Playable (Core Loop)
+
 **Phase 0:** Project Setup & Movement
 *You can move a sprite around the screen*
 
@@ -11,6 +13,12 @@
 
 **Phase 3:** XP & Leveling
 *Kill enemies → collect XP → level up*
+
+**→ Playable game exists at this point**
+
+---
+
+## Features (Additive Layers)
 
 **Phase 4:** Level-Up Choices
 *Level up → choose 1 of 3 upgrades → get stronger*
