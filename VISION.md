@@ -1,12 +1,12 @@
 # Game Vision
 
 ## Core Feeling
-Overwhelmed by enemies → Get stronger → Survive the night
+Day: Hunt them down → Night: They hunt you → Survive until dawn
 
 ## Key Pillars
-1. **Overwhelming Enemies** - Screen full of threats
+1. **Role Reversal** - Predator by day, prey by night
 2. **Power Growth** - Steady progression makes you feel unstoppable
-3. **Day/Night Cycles** - Survive increasingly dangerous nights
+3. **Constant Momentum** - Always moving, no downtime
 4. **Skill-Based Survival** - Your mistakes end the run, not a timer
 5. **Simple Controls** - Move + maybe 1 button
 
